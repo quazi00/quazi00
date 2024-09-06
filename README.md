@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qu4z1 or Quazi</h1>
 <h3 align="center">im an aspireling Physical Security Consultant</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
