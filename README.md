@@ -1,17 +1,57 @@
-<h1 align="center">Hi 👋, I'm Qu4z1 or Quazi</h1>
-<h3 align="center">Im an Aspireling Physical Security Consultant</h3>
+Hi 👋, I'm Qu4z1 (Mr. Ouazi)
+<div align="center">
+🔐 Aspiring Locksmith & Physical Security Enthusiast
+Fascinated by access control and the small details that decide if something stays secure
+</div>
 
+🔍 About Me
 
-<p align="left">
-</p>
+🔓 Aspiring locksmith with a passion for physical security and access control systems
+🛠️ Tech enthusiast who enjoys picking apart technology, from VR worlds to real-world hardware
+🔒 Privacy advocate focused on locally hosted services and keeping data away from big corporations
+📡 Network explorer mapping WiFi networks and understanding wireless security
+🎮 VR content creator building immersive experiences and custom worlds
 
+📊 Stats
 
+ ![](https://komarev.com/ghpvc/?username=quazi00&color=008e8e&style=plastic)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/> </p>
-
-![](https://komarev.com/ghpvc/?username=quazi00&color=008e8e&style=plastic)
-
-<a href="https://wigle.net">
-<img border="0" src="https://wigle.net/bi/fohll_IAVJhzZxMrti4jnA.png">
+<a href="https://wigle.net" target="_blank">
+  <img src="https://wigle.net/bi/fohll_IAVJhzZxMrti4jnA.png" alt="WiGLE Network Discoverer" height="60">
 </a>
+<br>
+<br>
+<br>
+🛠️ Technologies & Tools
+<div align="left">
+Hardware & Systems:
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+Interests:
+
+🔐 Physical Security & Lock Picking
+🏠 Self-Hosted Services & Privacy
+📡 Network Security & WiFi Analysis
+🥽 Virtual Reality Development
+🎨 Steam Workshop Content Creation
+
+</div>
+🌐 Connect With Me
+<div align="center">
+
+</div>
+🎯 Projects & Interests
+
+VR Worlds: Creating immersive virtual reality experiences
+Network Analysis: WiFi security research and mapping
+Self-Hosted Solutions: Building privacy-focused local services
+Hardware Hacking: Exploring IoT devices and access control systems
+Steam Workshop: Publishing VR content and game modifications
+
+<div align="center">
+"Security is achieved through openness. Take things apart and play with them… exposing bad security is what protects us all." - Deviant Ollam DEFCon 13 2005
+</div>
