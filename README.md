@@ -46,11 +46,9 @@ Interests:
 </div>
 🎯 Projects & Interests
 
-VR Worlds: Creating immersive virtual reality experiences
 Network Analysis: WiFi security research and mapping
 Self-Hosted Solutions: Building privacy-focused local services
 Hardware Hacking: Exploring IoT devices and access control systems
-Steam Workshop: Publishing VR content and game modifications
 
 <div align="center">
 "Security is achieved through openness. Take things apart and play with them… exposing bad security is what protects us all." - Deviant Ollam DEFCon 13 2005
